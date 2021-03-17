@@ -1,3 +1,7 @@
+This repository is a mini-feature inorder to get hands on experience with React hooks.
+I implemented useState and useEffect hook to implement this mini-feature called Smooth scrolling.
+On click of a button, the pages smoothly scrolls to the top of the page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
